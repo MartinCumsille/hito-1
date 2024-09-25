@@ -1,10 +1,10 @@
-## Comentarios
+# Proyecto Gestión Financiera - Martin Cumsille
 
-Esta plantilla permite guiarse de un ejemplo de años anteriores para la entrega del Hito 1 del Proyecto de Gestión Financiera.
+Este repositorio contiene el proyecto de gestión financiera diseñado para ayudar a los usuarios a llevar un control eficiente de sus finanzas personales. Este proyecto incluye diversas funcionalidades para la recopilación, análisis y visualización de datos financieros.
 
-La evaluación del hito está en constante evolución a través de los años por lo que se debe tomar la plantilla como un mínimo.
+## Estructura del Repositorio
 
-## Recursos restringidos en Canvas institucional
+La estructura del repositorio es la siguiente:
 
-- [Tutorial GitHub+Posit.cloud](https://uandes.instructure.com/courses/34934/assignments/193442)
-- [Buzón de entrega y rúbrica](https://uandes.instructure.com/courses/34934/assignments/193437?module_item_id=838328)
+-   *Data*: Carpeta destinada a almacenar los conjuntos de datos que se utilizan para análisis y visualización.
+-   *Hito-1-Martin-Cumsille.qmd*: Documento que detalla el primer hito del proyecto, incluyendo análisis y visualizaciones de los datos financieros.
