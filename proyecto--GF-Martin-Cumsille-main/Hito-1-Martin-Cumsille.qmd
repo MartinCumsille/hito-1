@@ -56,7 +56,7 @@ Para hacer la proyección del activo se deben definir parámetros:
 
 2.  **Precio de ejercicio (K):** 2130
 
-3.  **Precio del bono:** 108,94
+3.  **Precio del bono:** 108,9
 
 4.  **Days range:** 12,26
 
